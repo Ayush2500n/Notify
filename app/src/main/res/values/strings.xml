@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Notify</string>
+    <string name="notify_notes">Notify Notes</string>
+    <string name="more_options">More Options</string>
+    <string name="search_a_note">Search a note</string>
+</resources>
